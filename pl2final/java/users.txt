@@ -1,0 +1,5 @@
+1,Admin User,admin@school.com,admin123,ADMIN
+2,Dr. Sara,sara@school.com,sara123,INSTRUCTOR
+3,gamal,ali@school.com,ali123,STUDENT
+4,Mona Hassan,mona@school.com,mona123,STUDENT
+5,ahmed,ahmed,123,STUDENT

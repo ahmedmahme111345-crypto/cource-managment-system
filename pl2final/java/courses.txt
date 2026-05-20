@@ -1,0 +1,3 @@
+1,Mathematics,None,2,A1,Cairo,500.0,Sun-Tue,2026-05-09,2026-07-05,3|4
+2,Physics,None,2,B2,Cairo,600.0,Mon-Wed,2026-05-16,2026-07-15,
+3,Databases,None,2,A5,Cairo,7000.0,Mon-Wed,2026-05-08,2026-08-03,
